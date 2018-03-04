@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Moga\\": "src"
+            "Moga\\": "src/"
         }
     },
     "autoload-dev": {
@@ -47,7 +47,7 @@
         },
         "laravel": {
             "providers": [
-                "muja\\moga\\MogaServiceProvider"
+                "Moga\\MogaServiceProvider"
             ],
             "aliases": {
 
