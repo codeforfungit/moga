@@ -47,7 +47,7 @@
         },
         "laravel": {
             "providers": [
-                "Moga\\MogaServiceProvider"
+                "muja\\moga\\MogaServiceProvider"
             ],
             "aliases": {
 
