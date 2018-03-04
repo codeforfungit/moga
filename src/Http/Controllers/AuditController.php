@@ -4,7 +4,7 @@ namespace Moga\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use Survey\Models\ChecklistItem;
+use Moga\Models\ChecklistItem;
 
 class AuditController extends Controller
 {

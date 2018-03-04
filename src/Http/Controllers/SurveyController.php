@@ -6,7 +6,7 @@ use App\Http\Controllers\Controller;
 use App\User;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
-use Survey\Models\Audit;
+use Moga\Models\Audit;
 
 class SurveyController extends Controller
 {

@@ -33,7 +33,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "muja\\moga\\": "tests"
+            "Moga\\": "tests"
         }
     },
     "scripts": {

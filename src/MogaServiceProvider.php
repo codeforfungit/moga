@@ -1,11 +1,11 @@
 <?php
 
-namespace muja\moga;
+namespace Moga;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Schema;
 
-class mogaServiceProvider extends ServiceProvider
+class MogaServiceProvider extends ServiceProvider
 {
     /**
      * Perform post-registration booting of services.
