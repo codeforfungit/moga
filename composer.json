@@ -2,7 +2,7 @@
     "name": "muja/moga",
     "type": "library",
     "description": ":package_description",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "prefer-stable":true,
     "keywords": [
         "muja",
